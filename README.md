@@ -14,6 +14,6 @@
  
 # Story Board
   - anasayfa(animasyon sayfası)
-![ana sayfa](https://raw.githubusercontent.com/HasanKoc33/wtproject/main/gorseller/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.JPG)
+![ana sayfa](https://raw.githubusercontent.com/HasanKoc33/WebTasarim/main/gorseller/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.JPG)
   - bigi sayfası
-![detay sayfası](https://raw.githubusercontent.com/HasanKoc33/wtproject/main/gorseller/Ekran%20Al%C4%B1nt%C4%B1sa%C4%B1.JPG)
+![detay sayfası](https://raw.githubusercontent.com/HasanKoc33/WebTasarim/main/gorseller/Ekran%20Al%C4%B1nt%C4%B1sa%C4%B1.JPG)
