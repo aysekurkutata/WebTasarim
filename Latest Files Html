@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PAGE</title>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header id= "header">
+		<div class="header">
+			<div class="container">
+				<div class="header-navbar">
+					<div class="header-logo">
+						<div class="resim"> 
+						<h2>SOLAR SYSTEM</h2>
+					</div>
+					<div class="header-planets">
+						<ul>
+							<li><a href="#">Gunes</a></li>
+							<li><a href="#">Merkur</a></li>
+							<li><a href="#">Venus</a></li>
+							<li><a href="#">Dunya</a></li>
+							<li><a href="#">Mars</a></li>
+							<li><a href="#">Jupiter</a></li>
+							<li><a href="#">Saturn</a></li>
+							<li><a href="#">Uranus</a></li>
+							<li><a href="#">Neptun</a></li>
+						</ul>
+					 	
+					</div>
+				</div>
+
+				</div>
+			</div>
+		</div>
+		 </header>
+
+		 <!--- İÇERİK KISMI-->
+
+		 <section id="icerik">
+		 	<div class="icerik">
+		 		<div class="container">
+		 			<div class="icerik-baslik">
+		 				<h2>Güneş</h2> 
+		 			</div>
+		 			<div class="icerik-metin">
+		 				<div class="icerik-resim">
+		 					<img src="sun.png"  alt="Resim bulunamadı">
+		 					 </div> 
+		 					 <div class="metin">
+
+		 					<p>Evrende bulunan milyarlarca yıldız düşünüldüğünde, güneş’in özellikleri ve yapısının aslında pek bir önemi yoktur. Ancak Dünya ve çevresinde dönen diğer gezegenler için güneş, çok önemlidir. Güneş, güneş sistemini bir arada tutar, yeryüzüne hayat veren ışık, ısı ve enerjiyi oluşturur. <br> <br> 
+		 			     Güneş'in özellikleri ve yapısı <br> <br>
+
+Güneş aslında büyük bir yıldızdır.Güneşin nekadar büyük olduğunu anlamak için; güneş’in çevresi 4,3 milyon km, dünyanın çevresiyse sadece 40.075 km dir. Güneş içi boş bir top olsaydı, bir milyondan fazla Dünya onun içine girebilirdi. Ancak güneş’in içi boş değil, kavurucu sıcak gazlarla dolu.
+
+Güneş’in sıcaklığı nedir?
+Güneş kütlesinin %99’undan fazlasını oluşturan kavurucu sıcak gazlarla dolu. Sıcaklık, yüzeyde yaklaşık 5.500 santigrat derece, çekirdekte 15.5 milyon Santigrat derece olduğu tahmin ediliyor.
+
+Güneş’in dünya’ya uzaklığı ne kadar?
+Güneş ile dünyamız arasındaki mesafe 149.600.000 km dir.
+
+güneş özellikleri 
+
+Güneş kaç yaşında?
+Güneş 4,6 miyar yaşında evet yanlış okumadınız tam 4,6 milyar yaşında.
+
+Güneş’in enerjisi biter mi?
+Güneş’in yaşını düşündüğümüzde ne zaman enerjisinin biteceğini tam olarak tahmin etmek güç ancak bilim insanları, güneş’in de bir gün yok olacağını söylüyor.
+
+Güneş hayatının yarısını yaşamışa benziyor. 4,5 milyar yaşında olan Güneş, hidrojen depolarının yaklaşık yarısını yaktı ve 5 milyar yıl daha hidrojen yakmaya devam edecek kadar yakıtı kaldı.
+
+Güneşin yarıçapı nedir?
+Güneş’in yarı çapına baktığımızda devasa büyüklüğünüde görmüş oluyoruz. Güneşin yarıçapı, 695.508 km‘dir. <br> <br>
+	
+
+	Güneş'in özellikleri ve yapısı  <br><br>
+Güneşin özellikleri hakkında diğer bilgiler:
+
+Güneşin yarıçapı, 695.508 km‘dir.
+Güneş saatte 1.5 metre küçülmektedir.
+güneş sisteminin kütlesinin % 99.86’sını güneş oluştur.
+Güneş 4,6 miyar yaşındadır.
+Güneş saniyede 220 kilometre hızla ilerliyor
+güneş’in çevresi 4,3 milyon km.
+Güneşin; %70’i hidrojen, %28 helyum, %2’si de diğer elementlerdir.
+Güneş ile dünyamız arasındaki mesafe 149 milyon km dir.
+Güneş’ten dünyamıza gelen ışınlar 8 dakika da gelebilmektedir.
+Güneş kendi etrafındaki bit tam turu 27 günde tamamlıyor.
+Güneş’in yarıçapı, 695.508 km‘dir.
+Çekirdeğinde 15.5 milyon Santigrat derece sıcaklık bulunmaktadır.
+Güneş katı değildir, plazma hâlindedir.
+Güneş yanan gazlardan oluşur.
+Güneş, Dünya’dan 109 kat daha geniş ve 330.000 kat daha büyük.
+Güneş’in çok güçlü bir manyetik alanı vardır.</p>
+
+		 					
+		 				  </div>
+
+		 				
+		 			</div>
+		 			
+		 		</div>
+		</div>
+		 	</div>
+		 	
+		 </section>
+
+		
+		<!---
+		<img src="https://e7.pngegg.com/pngimages/677/302/png-clipart-sun-sun-thumbnail.png"  witdh = "300px" height="300" alt="Resim bulunamadı" float:left; margin: 50px;>
+	-->
+
+		
+
+
+
+</body>
+</html>
+
