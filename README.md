@@ -19,5 +19,5 @@
 ![detay sayfası](https://raw.githubusercontent.com/HasanKoc33/WebTasarim/main/gorseller/Ekran%20Al%C4%B1nt%C4%B1sa%C4%B1.JPG)
 
 
-# Proje notları
+# Proje notları:
  
